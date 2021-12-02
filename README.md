@@ -12,7 +12,7 @@ Entwicklungsplattform:
 Windows 10, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
 Zielplattform:
-WebGL Referenzauflösung (960x600) https://3ahmns2122mtin.github.io/HelloAgain-smeerws-Uebung01/
+WebGL Referenzauflösung (960x600)
 
 ### Visuelle Einblicke in das Projekt:
 ![JKHGFD](https://user-images.githubusercontent.com/91017666/144385474-12608d66-fd18-49e2-ae4e-81f3da0732bc.JPG)
